@@ -1,6 +1,6 @@
-#HTML Practical
+HTML Practical
 
-##Create a website consisting of the following elements. When you finished, please print out the source for all 7 files (6 html and one css) and show the page on your computer.
+Create a website consisting of the following elements. When you finished, please print out the source for all 7 files (6 html and one css) and show the page on your computer.
 
 A consisting
 frame with a menu bar on left and logo graphic.
